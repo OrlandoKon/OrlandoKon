@@ -1,5 +1,9 @@
 ## Hi there, I'm Orlando. A master candidate at BUPT. 👋
 
+[![OrlandoKon's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrlandoKon)](https://github.com/OrlandoKon/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrlandoKon)
+
 <!--
 **OrlandoKon/OrlandoKon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
