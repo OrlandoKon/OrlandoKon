@@ -4,6 +4,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrlandoKon)
 
+![](./profile-3d-contrib/profile-season-animate.svg)
+
 <!--
 **OrlandoKon/OrlandoKon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
