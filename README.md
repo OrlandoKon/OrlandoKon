@@ -3,9 +3,9 @@
   
 [![OrlandoKon's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrlandoKon)](https://github.com/OrlandoKon/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrlandoKon)
+![Stats](./profile/stats.svg)
 
-![](./profile-3d-contrib/profile-season-animate.svg)
+![Top Languages](./profile/top-langs.svg)
 </div>
 
 
